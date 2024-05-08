@@ -23,5 +23,10 @@ public class Noon {
 		return null;
 		
 	}
+	
+	static void dummyMethods()
+	{
+		System.out.println("this is dummy method");
+	}
 
 }
